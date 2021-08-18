@@ -1237,6 +1237,10 @@ p {
     margin-top: 20px;
     font-size: 16px;
     color: #fff; }
+    .footer-contact .contact li a{
+      margin-top: 20px;
+      font-size: 16px;
+      color: #fff; }
 
 /*===== BACK TO TOP =====*/
 .back-to-top {
